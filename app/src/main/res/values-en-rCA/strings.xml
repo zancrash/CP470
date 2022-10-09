@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidAssignments</string>
+    <string name="hello_message">Hello Beautiful People!</string>
+    <string name="ButtonText">Press Me!</string>
+    <string name="LoginText">Login:</string>
+    <string name="PasswordText">password</string>
+    <string name="login_hint">login name</string>
+    <string name="radio_text">RadioButton</string>
+    <string name="check_text">CheckBox</string>
+    <string name="switch_text">What does this do?</string>
+    <string name="LoginBtnText">Login</string>
+    <string name="SavedEmailText"> </string>
+    <string name="DefaultEmailText">email@domain.com</string>
+    <string name="ListItemsActivityPassedText">ListItemsActivity passed: </string>
+    <string name="ToggleOnText">Switch is On</string>
+    <string name="ToggleOffText">Switch is off</string>
+    <string name="dialog_title">Finish Activity</string>
+    <string name="dialog_message">Return to Main?</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
